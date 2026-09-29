@@ -118,24 +118,12 @@ flutter run
 └── docs/       # screenshots e documentação
 ```
 
-## 🗺️ Roadmap
 
-- [ ] Frontend completo (todas as telas do mapa)
-- [ ] Navegação integrada entre as telas
-- [ ] 3 fases jogáveis *(entrega parcial: 23/10/2026)*
-- [ ] IA adaptativa integrada
-- [ ] Novas fases e polimento *(entrega final: 26/11/2026)*
 
 ## 👥 Equipe
 
 | Nome | GitHub |
 |---|---|
 | Luisa Campanha | [@LuisaCampanhaH](https://github.com/LuisaCampanhaH) |
-| `<nome>` | `<@usuario>` |
-| `<nome>` | `<@usuario>` |
-| `<nome>` | `<@usuario>` |
-| `<nome>` | `<@usuario>` |
 
-## 📄 Licença
 
-`<Escolha uma licença ou remova esta seção>`
